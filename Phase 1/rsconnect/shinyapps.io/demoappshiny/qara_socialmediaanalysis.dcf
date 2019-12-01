@@ -1,0 +1,10 @@
+name: qara_socialmediaanalysis
+title:
+username:
+account: demoappshiny
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 935931
+bundleId: 2092802
+url: https://demoappshiny.shinyapps.io/qara_socialmediaanalysis/
+when: 1558129215.94323
