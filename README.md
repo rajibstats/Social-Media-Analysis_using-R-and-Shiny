@@ -1,12 +1,12 @@
-# Social-Media-Analysis-R-and-Shiny-
-Introduction
+# Social-Media-Analysis-R-and-Shiny
+#Introduction
 
 to develop a Social Media Dashboard, a platform for extracting, storing, tabulating and analyzing social media contents streamed through Twitter, Instagram and Facebook, for its internal use.  Dashboard interface should be designed as such to allow the manager to search and store/download content about new trending topic by merely using the designated hashtag or keywords. It should also allow the user to search in multiple languages.  
 
 Focus should be more on how the collected content will be sorted, processed and analyzed. A particular attention should be given on sentimental analysis using latest visual tools. This is our rough vision but we are open to seek technical advise on the latest technology.
 
 
-Extracting and Storing
+#Extracting and Storing
 
 At first stage, the dashboard will extract and store all the tweets and posts. Using the users, keywords and hashtags, the dashboard will initially extract and store the contents in relational database. The contents will be navigated based on three features; Accounts, Keyword and Hashtag.
 
